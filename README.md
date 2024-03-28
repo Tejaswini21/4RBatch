@@ -1,2 +1,2 @@
 # 4RBatch
-Projects and assignments of 4R
+Projects of 4R
